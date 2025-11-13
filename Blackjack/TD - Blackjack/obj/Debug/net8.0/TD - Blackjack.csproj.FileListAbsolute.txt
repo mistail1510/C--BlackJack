@@ -1,0 +1,28 @@
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\bin\Debug\net8.0\TD - Blackjack.exe
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\bin\Debug\net8.0\TD - Blackjack.deps.json
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\bin\Debug\net8.0\TD - Blackjack.runtimeconfig.json
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\bin\Debug\net8.0\TD - Blackjack.dll
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\bin\Debug\net8.0\TD - Blackjack.pdb
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.AssemblyInfo.cs
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.dll
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\obj\Debug\net8.0\refint\TD - Blackjack.dll
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.pdb
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.genruntimeconfig.cache
+C:\Users\Master\Desktop\Cours\USRS45 - Introduction au langage C\Module 3\TD - Blackjack\TD - Blackjack\obj\Debug\net8.0\ref\TD - Blackjack.dll
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\bin\Debug\net8.0\TD - Blackjack.exe
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\bin\Debug\net8.0\TD - Blackjack.deps.json
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\bin\Debug\net8.0\TD - Blackjack.runtimeconfig.json
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\bin\Debug\net8.0\TD - Blackjack.dll
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\bin\Debug\net8.0\TD - Blackjack.pdb
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.AssemblyInfo.cs
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.dll
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\obj\Debug\net8.0\refint\TD - Blackjack.dll
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.pdb
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\obj\Debug\net8.0\TD - Blackjack.genruntimeconfig.cache
+C:\Users\Master\Desktop\Portfolio projets github\Blackjack\TD - Blackjack\obj\Debug\net8.0\ref\TD - Blackjack.dll
